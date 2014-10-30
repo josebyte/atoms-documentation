@@ -43,6 +43,7 @@ La tradución que
 - [7. Extensions](https://github.com/soyjavi/atoms-documentation/blob/master/ES/07.md)
 - [8. Atoms.APP: Extension para tus Apps](https://github.com/soyjavi/atoms-documentation/blob/master/ES/08.md)
 - [9. Atoms.IDE: El diseñador de Apps](https://github.com/soyjavi/atoms-documentation/blob/master/ES/09.md)
+- [10. Comenzando a desarrollar](https://github.com/soyjavi/atoms-documentation/blob/master/ES/10.md)
 
 
 ### Licencia
